@@ -6,4 +6,9 @@
 
 [![easy](https://img.shields.io/badge/EASY-1-green)](./easy/)
 
+<div align=start>
+
 [![Pick](https://img.shields.io/badge/Pick-green)](./easy/Pick/README.md)
+[![Pick](https://img.shields.io/badge/Readonly-green)](./easy/Readonly/README.md)
+
+</div>
