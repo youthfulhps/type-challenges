@@ -12,5 +12,6 @@
 [![Pick](https://img.shields.io/badge/Readonly-green)](./easy/Readonly/README.md)
 [![TupleToObject](https://img.shields.io/badge/TupleToObject-green)](./easy/TupleToObject/README.md)
 [![FirstOfArray](https://img.shields.io/badge/FirstOfArray-green)](./easy/FirstOfArray/README.md)
+[![LengthOfTuple](https://img.shields.io/badge/LengthOfTuple-green)](./easy/LengthOfTuple/README.md)
 
 </div>
