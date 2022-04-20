@@ -1,4 +1,4 @@
-# Pick
+# FirstOfArray
 
 ### Challenge
 
