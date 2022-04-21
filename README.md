@@ -14,5 +14,6 @@
 [![FirstOfArray](https://img.shields.io/badge/FirstOfArray-green)](./easy/FirstOfArray/README.md)
 [![LengthOfTuple](https://img.shields.io/badge/LengthOfTuple-green)](./easy/LengthOfTuple/README.md)
 [![Exclude](https://img.shields.io/badge/Exclude-green)](./easy/Exclude/README.md)
+[![Awaited](https://img.shields.io/badge/Awaited-green)](./easy/Awaited/README.md)
 
 </div>
