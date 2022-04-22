@@ -2,7 +2,7 @@
 
 [type-challenges](https://github.com/type-challenges/type-challenges)의 문제들을 개인적으로 풀어보고 정리합니다.
 
-[![easy](https://img.shields.io/badge/EASY-6-green)](./easy/)
+[![easy](https://img.shields.io/badge/EASY-8-green)](./easy/)
 
 <div align=start>
 
@@ -13,5 +13,6 @@
 [![LengthOfTuple](https://img.shields.io/badge/LengthOfTuple-green)](./easy/LengthOfTuple/README.md)
 [![Exclude](https://img.shields.io/badge/Exclude-green)](./easy/Exclude/README.md)
 [![Awaited](https://img.shields.io/badge/Awaited-green)](./easy/Awaited/README.md)
+[![If](https://img.shields.io/badge/If-green)](./easy/If/README.md)
 
 </div>
