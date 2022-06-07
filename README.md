@@ -1,8 +1,8 @@
 # type-challenges
 
-[type-challenges](https://github.com/type-challenges/type-challenges)의 문제들을 개인적으로 풀어보고 정리합니다.
+[type-challenges](https://github.com/type-challenges/type-challenges)
 
-[![easy](https://img.shields.io/badge/EASY-9-green)](./easy/)
+[![easy](https://img.shields.io/badge/EASY-10-green)](./easy/)
 
 <div align=start>
 
@@ -15,5 +15,6 @@
 [![Awaited](https://img.shields.io/badge/Awaited-green)](./easy/Awaited/README.md)
 [![If](https://img.shields.io/badge/If-green)](./easy/If/README.md)
 [![Concat](https://img.shields.io/badge/Concat-green)](./easy/Concat/README.md)
+[![Includes](https://img.shields.io/badge/Includes-green)](./easy/Includes/README.md)
 
 </div>
