@@ -10,5 +10,5 @@ type Includes<T extends readonly any[], U> = T extends [
   : false;
 
 type isPillarMen = Includes<["Kars", "Esidisi", "Wamuu", "Santana"], "Santana">; // expected to be `false`
-type hasThree = Includes<[1, 2, 3, 4], 3>;
-type hasFalse = Includes<[true, true, true, true], false>;
+type hasThree = Includes<[1, 2, 3, 4], 3>; //expected to be 'true'
+type hasFalse = Includes<[true, true, true, true], false>; //expected to be 'false'
