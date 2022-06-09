@@ -16,5 +16,6 @@
 [![If](https://img.shields.io/badge/If-green)](./easy/If/README.md)
 [![Concat](https://img.shields.io/badge/Concat-green)](./easy/Concat/README.md)
 [![Includes](https://img.shields.io/badge/Includes-green)](./easy/Includes/README.md)
+[![Push](https://img.shields.io/badge/Push-green)](./easy/Push/README.md)
 
 </div>
