@@ -18,5 +18,6 @@
 [![Includes](https://img.shields.io/badge/Includes-green)](./easy/Includes/README.md)
 [![Push](https://img.shields.io/badge/Push-green)](./easy/Push/README.md)
 [![Unshift](https://img.shields.io/badge/Unshift-green)](./easy/Unshift/README.md)
+[![Parameters](https://img.shields.io/badge/Parameters-green)](./easy/Parameters/README.md)
 
 </div>
