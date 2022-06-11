@@ -2,7 +2,7 @@
 
 [type-challenges](https://github.com/type-challenges/type-challenges)
 
-[![easy](https://img.shields.io/badge/EASY-10-green)](./easy/)
+[![easy](https://img.shields.io/badge/EASY-11-green)](./easy/)
 
 <div align=start>
 
@@ -17,5 +17,6 @@
 [![Concat](https://img.shields.io/badge/Concat-green)](./easy/Concat/README.md)
 [![Includes](https://img.shields.io/badge/Includes-green)](./easy/Includes/README.md)
 [![Push](https://img.shields.io/badge/Push-green)](./easy/Push/README.md)
+[![Unshift](https://img.shields.io/badge/Unshift-green)](./easy/Unshift/README.md)
 
 </div>
