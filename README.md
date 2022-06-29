@@ -21,3 +21,8 @@
 [![Parameters](https://img.shields.io/badge/Parameters-green)](./easy/Parameters/README.md)
 
 </div>
+
+[![medium](https://img.shields.io/badge/medium-2-yellow)](./medium/)
+
+[![GetReturnType](https://img.shields.io/badge/GetReturnType-yellow)](./medium/GetReturnType/README.md)
+[![Omit](https://img.shields.io/badge/Omit-yellow)](./medium/Omit/README.md)
