@@ -2,7 +2,7 @@
 
 [type-challenges](https://github.com/type-challenges/type-challenges)
 
-[![easy](https://img.shields.io/badge/EASY-11-green)](./easy/)
+[![easy](https://img.shields.io/badge/EASY-13-green)](./easy/)
 
 <div align=start>
 
